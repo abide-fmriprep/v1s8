@@ -1,0 +1,46 @@
+status file for recon-all
+Tue Mar 10 09:19:16 CET 2026
+#@# Tessellate rh Tue Mar 10 09:19:16 CET 2026
+#@# Smooth1 rh Tue Mar 10 09:19:20 CET 2026
+#@# Inflation1 rh Tue Mar 10 09:19:22 CET 2026
+#@# QSphere rh Tue Mar 10 09:19:37 CET 2026
+#@# Fix Topology rh Tue Mar 10 09:20:58 CET 2026
+#@# Smooth2 rh Tue Mar 10 09:26:01 CET 2026
+#@# Inflation2 rh Tue Mar 10 09:26:04 CET 2026
+#@# Curv .H and .K rh Tue Mar 10 09:26:19 CET 2026
+#@# Sphere rh Tue Mar 10 09:27:02 CET 2026
+#@# Surf Reg rh Tue Mar 10 09:29:45 CET 2026
+#@# Jacobian white rh Tue Mar 10 09:34:02 CET 2026
+#@# AvgCurv rh Tue Mar 10 09:34:03 CET 2026
+#@# Cortical Parc rh Tue Mar 10 09:34:04 CET 2026
+#@# white curv rh Tue Mar 10 09:39:52 CET 2026
+#@# white area rh Tue Mar 10 09:39:54 CET 2026
+#@# pial curv rh Tue Mar 10 09:39:55 CET 2026
+#@# pial area rh Tue Mar 10 09:39:56 CET 2026
+#@# thickness rh Tue Mar 10 09:39:57 CET 2026
+#@# area and vertex vol rh Tue Mar 10 09:40:24 CET 2026
+#@# Curvature Stats rh Tue Mar 10 09:40:25 CET 2026
+#@# Cortical Parc 2 rh Tue Mar 10 09:40:28 CET 2026
+#@# Cortical Parc 3 rh Tue Mar 10 09:40:40 CET 2026
+#@# WM/GM Contrast rh Tue Mar 10 09:40:50 CET 2026
+recon-all -s sub-v1s8x0051348_ses-1 finished without error at Tue Mar 10 09:40:52 CET 2026
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Tue Mar 10 09:49:02 CET 2026
+#@# white curv rh Tue Mar 10 09:49:02 CET 2026
+#@# white area rh Tue Mar 10 09:49:02 CET 2026
+#@# pial curv rh Tue Mar 10 09:49:02 CET 2026
+#@# pial area rh Tue Mar 10 09:49:02 CET 2026
+#@# thickness rh Tue Mar 10 09:49:02 CET 2026
+#@# area and vertex vol rh Tue Mar 10 09:49:02 CET 2026
+#@# Parcellation Stats rh Tue Mar 10 09:49:02 CET 2026
+#@# Parcellation Stats 2 rh Tue Mar 10 09:49:19 CET 2026
+#@# Parcellation Stats 3 rh Tue Mar 10 09:49:28 CET 2026
+#@# BA_exvivo Labels rh Tue Mar 10 09:49:36 CET 2026
+recon-all -s sub-v1s8x0051348_ses-1 finished without error at Tue Mar 10 09:52:10 CET 2026
